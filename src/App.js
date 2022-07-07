@@ -1,8 +1,11 @@
 import React from 'react';
+import{FooterContainer} from "./containers/footer"
 
 function App() {
   return (
-    <h1>Petshop</h1>
+    <>
+    <FooterContainer/>
+    </>
     
     );
 }
